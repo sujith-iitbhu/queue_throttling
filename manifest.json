@@ -1,0 +1,9 @@
+{
+  "files_list": [
+    {
+      "function_name": "consume_snowflake.py",
+      "function_file_path": "consume_snowflake.py",
+      "function_config_path": "function_config/consume_snowflake.json"
+    }
+  ]
+}
